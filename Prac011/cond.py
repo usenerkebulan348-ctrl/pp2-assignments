@@ -1,6 +1,6 @@
 #1
 if True:
-    print("hi")
+    print("hello KBTU")
 
 #2
 a=5
